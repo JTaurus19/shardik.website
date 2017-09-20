@@ -8,13 +8,7 @@ install:
 
 script:
   - binaries/hugo --theme=minimo --baseUrl=http://shardik.software
-
-after_script:
-  - git clone --depth=50 --branch=gh-pages https://github.com/JTaurus19/shardik.website.git
-  - git checkout origin/master CNAME
-  - git add --all
-  - git commit -m "add CNAME from master"
-  - git push
+  - echo 'shardik.software' >CNAME
 
 deploy:
   provider: pages
