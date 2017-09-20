@@ -7,7 +7,7 @@ install:
   - rm -rf public || exit 0
 
 script:
-  - binaries/hugo --theme=minimo --baseUrl=https://jtaurus19.github.io/shardik.website/
+  - binaries/hugo --theme=minimo --baseUrl=http://shardik.software/
 
 deploy:
   provider: pages
