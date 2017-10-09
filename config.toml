@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://shardik.software/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SHARDIK.soft"
 theme = 'minimo'
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+[Languages.ru]
