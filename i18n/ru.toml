@@ -1,0 +1,56 @@
+[by]
+  other = "by"
+
+[category]
+  one = "Категория"
+  other = "Категории"
+
+[currentPage]
+  other = "Текущая страница"
+
+[mainMenu]
+  other = "Главное меню"
+
+[next]
+  other = "Следующая"
+
+[nextPage]
+  other = "Следующая страница"
+
+[nextPost]
+  other = "Следующий пост"
+
+[noTerm]
+  other = "Ни одной {{ .Term }}!"
+
+[openSomethingInNewTab]
+  other = "Открыть {{ .Something }} в новой вкладке"
+
+[page]
+  other = "Страница"
+
+[previous]
+  other = "Предыдущая"
+
+[previousPage]
+  other = "Предыдущая страница"
+
+[previousPost]
+  other = "Предыдущая запись"
+
+[postedOn]
+  other = "Опубликовано"
+
+[recentPosts]
+  other = "Последние записи"
+
+[socialMenu]
+  other = "Социальные сети"
+
+[readingTime]
+  one = "1 минута на чтение"
+  other = "{{ .Count }} минут на чтение"
+
+[tag]
+  one = "Тег"
+  other = "Теги"
