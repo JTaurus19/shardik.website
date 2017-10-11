@@ -9,7 +9,8 @@ install:
 script:
   - binaries/hugo --theme=minimo --baseUrl=http://shardik.software
   - cd public
-  - echo 'shardik.software' >CNAME
+  - echo 'shardik.software' > CNAME
+  - echo 'f65454fc5e23' > c9675f98d6b5.html
   - cd ..
 
 deploy:
