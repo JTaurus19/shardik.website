@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language.Lang }}'>
+
+{{ partial "head/head" . }}
+
+<body class='{{ .Kind }}'>
+  <div class='site'>
+    <header id='header' class='header-container'>
+      <div class='site-header'>
+        {{ partial "nav/menus/main" . }}
+      </div>
+    </header>
