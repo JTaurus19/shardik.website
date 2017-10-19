@@ -8,6 +8,6 @@ weight: -90
 
 #### Nothing was posted yet. 
 
-![Nothing was posted yet!](/empty_bear.jpg)
+![Nothing was posted yet!](/images/empty_bear.jpg)
 
 Don't worry, we'll save the bear soon!

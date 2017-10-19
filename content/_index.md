@@ -10,7 +10,7 @@ weight: -100
 > ##  **Shardik.soft** unites independent software engineers.
 
 
-![Bear](bear.jpg)
+![Bear](/images/bear.jpg)
 
 ### What we can:
 

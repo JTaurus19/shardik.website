@@ -28,3 +28,17 @@
 .term-cloud {
     max-width: 800px;
 }
+
+.img-circle {
+    border-radius: 50%;
+    width: 235px;
+}
+
+.left {
+    float: left;
+    margin-right: 20px;
+}
+
+.right {
+    float: right;
+}
