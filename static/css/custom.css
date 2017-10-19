@@ -4,12 +4,14 @@ body, button, input, select, textarea {
 }
 
 /* Make yellow line longer */
+
 .comments-container #disqus_thread:before,
-.entry-header:after,
-.entry-nav-links:before,
+.entry+.home-sections-container,
+.home-sections:before,
+.entry-nav:before,
 .footer:before,
-.prev-entry ~ .next-entry:before,
-.site-header:after {
+.header:after,
+.prev-entry~.next-entry:before {
     width: 15em;
 }
 
@@ -17,11 +19,17 @@ body, button, input, select, textarea {
 
 .comments-container #disqus_thread,
 .entry-content,
+.entry-cover,
+.entry-cover figcaption,
 .entry-footer,
-.entry-header,
-.entry-nav-links,
+.entry-nav,
+.entry-toc,
 .footer,
-.list-container,
-.site-header {
+.header,
+.list-header,
+.home-sections,
+.list,
+.pagination,
+.term-cloud {
     max-width: 800px;
 }

@@ -4,8 +4,17 @@ title = "SHARDIK.soft"
 theme = 'minimo'
 DefaultContentLanguage = "en"
 
-[params]
-  customCSS = [ "css/custom.css" ]
+enableRobotsTXT = true # generate robots.txt
+
+
+[params.assets]
+  customCSS = [ "css/custom.css", "fontawesome/css/font-awesome.min.css" ]
+
+[params.copyright]
+  prefix = ""
+  holder = "SHARDIK.soft"
+  startYear = "2017"
+  suffix = ""
 
 [Languages]
 [Languages.en]
