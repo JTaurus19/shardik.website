@@ -4,6 +4,9 @@ title = "SHARDIK.soft"
 theme = 'minimo'
 DefaultContentLanguage = "en"
 
+[params]
+  customCSS = [ "css/custom.css" ]
+
 [Languages]
 [Languages.en]
 [Languages.ru]
