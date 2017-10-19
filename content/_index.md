@@ -7,7 +7,7 @@ weight: -100
 ---
 
 
-> ##  **Shardik.soft** unites independent IT professionals.
+> ##  **Shardik.soft** unites independent software engineers.
 
 
 ![Bear](bear.jpg)
