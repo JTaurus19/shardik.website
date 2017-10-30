@@ -6,15 +6,25 @@ menu: "main"
 weight: -80
 ---
 
-<div class="right"><img class="img-circle" src="/images/viacheslav_rounded.png" /><br/><center><span class="team-names">Viacheslav Kruglov</span></center></div>
-For the last seven years I've been working in software development. I've participated in small and big projects (from 3 to 100 people), worked with Swiss, German and Russian customers.
-  
-I've played many roles in the projects: from a developer to technical project manager. In any role work quality and responsibility for the result are my guiding principles.
-  
-I speak fluent *English*, conversational *German* and native *Russian*.
-  
-Mainly I focus on high-concurrent back-end applications. Also I can develop a web front-end or integrate with already existing one.  
+<div class="right"><img class="img-circle" src="/images/viacheslav_rounded.png" /></div>
+<h3 class="no-bottom-margin"> Slava K. </h3>
+*<span class="team-names">Senior Full Stack Developer, Founder.*</span>  
 
-Looking forward hearing from you!    
-<div class="left"><img class="img-circle" src="/images/ivan_rounded.png" /><br/><center><span class="team-names">Ivan Timoshenko</span></center></div>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ipsum bibendum tellus euismod mollis. Sed nec imperdiet sapien, nec porta lorem. Cras sagittis blandit ante, eu eleifend mauris. Quisque sit amet arcu eu metus commodo pulvinar. Donec euismod, odio vitae vulputate congue, dui erat rhoncus nibh, dapibus interdum dui tellus nec eros. Donec eget elementum purus, vel accumsan ligula. Suspendisse sed malesuada nibh. Suspendisse faucibus risus nisi, at porta tellus facilisis eleifend. Duis a leo ex. Nam in tortor sit amet turpis maximus interdum. Pellentesque at ultricies ex, vitae fermentum velit. Sed tincidunt, sem at cursus luctus, elit erat commodo dolor, pulvinar lacinia nisl orci eu libero. Aenean sit amet augue nunc. Proin sed urna magna.
+Experienced in high-load projects  
+Solid background in team management  
+Developed Shardik's brain and left hand
+
+
+<i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+
+
+
+<div class="left"><img class="img-circle" src="/images/ivan_rounded.png" /></div>
+<h3 class="no-bottom-margin"> Ivan T. </h3>
+*<span class="team-names">Senior Software Developer, Founder.*</span>  
+
+Skilled in back-end, deployment and web  
+Java 8 Oracle Certified Professional  
+Taught Shardik's ~~s~~kills and right hand
+  
+<i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>

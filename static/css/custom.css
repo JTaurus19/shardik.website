@@ -31,7 +31,7 @@
 
 .img-circle {
     border-radius: 50%;
-    width: 235px;
+    width: 200px;
 }
 
 .left {
@@ -46,4 +46,8 @@
 .team-names {
     color: rgba(0, 0, 0, 0.32);
     font-size: 0.9em;
+}
+
+.no-bottom-margin {
+    margin-bottom: 0 !important;
 }
