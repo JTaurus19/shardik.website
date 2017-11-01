@@ -6,25 +6,38 @@ menu: "main"
 weight: -80
 ---
 
-<div class="right"><img class="img-circle" src="/images/viacheslav_rounded.png" /></div>
-<h3 class="no-bottom-margin"> Slava K. </h3>
-*<span class="team-names">Senior Full Stack Developer, Founder.*</span>  
+<div class="container">
+    <div class="left-half">
+        <h3 class="no-bottom-margin">Slava K.</h3>
+        <em><span class="team-names">Senior Full Stack Developer, Founder.</span></em>  
 
-Experienced in high-load projects  
-Solid background in team management  
-Developed Shardik's brain and left hand
+        <p>
+            Experienced in high-load projects  <br/>
+            Solid background in team management  <br/>
+            Developed Shardik's brain and left hand 
+        </p>
+        <i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+    </div>
+    <div class="right-half">
+            <img class="img-circle" src="/images/viacheslav_rounded.png" />
+    </div>
+</div>
 
+<div class="clear-block"></div>
+<div class="container">
+    <div class="left-half">
+        <h3 class="no-bottom-margin"> Ivan T. </h3>
+        <em><span class="team-names">Senior Software Developer, Founder.</span></em>  
 
-<i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
-
-
-
-<div class="left"><img class="img-circle" src="/images/ivan_rounded.png" /></div>
-<h3 class="no-bottom-margin"> Ivan T. </h3>
-*<span class="team-names">Senior Software Developer, Founder.*</span>  
-
-Skilled in back-end, deployment and web  
-Java 8 Oracle Certified Professional  
-Taught Shardik's ~~s~~kills and right hand
+        <p>
+            Skilled in back-end, deployment and web  <br/>
+            Java 8 Oracle Certified Professional  <br/>
+            Taught Shardik's <s>s</s>kills and right hand
+        </p>
   
-<i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+        <i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+    </div>
+    <div class="right-half">
+        <img class="img-circle" src="/images/ivan_rounded.png" />
+    </div>
+</div>

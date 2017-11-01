@@ -51,3 +51,21 @@
 .no-bottom-margin {
     margin-bottom: 0 !important;
 }
+
+.clear-block {
+    clear: both;
+    font-size: 0;
+    line-height: 0;
+    height: 30px;
+}
+.container {
+    display: grid;
+}
+
+.left-half {
+    grid-column: 1;
+}
+
+.right-half {
+    grid-column: 2;
+}
