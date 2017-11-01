@@ -69,3 +69,10 @@
 .right-half {
     grid-column: 2;
 }
+
+table { border: none; }
+td {border:none;}
+
+.no-border {
+    border: none !important;
+}

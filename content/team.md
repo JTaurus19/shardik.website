@@ -32,7 +32,7 @@ weight: -80
         <p>
             Skilled in back-end, deployment and web  <br/>
             Java 8 Oracle Certified Professional  <br/>
-            Taught Shardik's <s>s</s>kills and right hand
+            Developed Shardik's <s>s</s>kills and right hand
         </p>
   
         <i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
