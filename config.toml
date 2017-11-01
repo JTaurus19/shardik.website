@@ -6,7 +6,6 @@ DefaultContentLanguage = "en"
 
 enableRobotsTXT = true # generate robots.txt
 
-
 [params.assets]
   customCSS = [ "css/custom.css", "fontawesome/css/font-awesome.min.css" ]
 
@@ -15,6 +14,7 @@ enableRobotsTXT = true # generate robots.txt
   holder = "SHARDIK.soft"
   startYear = "2017"
   suffix = ""
+  email = "hello@shardik.software"
 
 [Languages]
 [Languages.en]
