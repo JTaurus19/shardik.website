@@ -37,16 +37,16 @@ weight: -100
 <td><a href="http://hibernate.org/" target="_blank" class="no-border"><img src="/images/logos/hibernate.png"/></a></td>
 </tr>
 <tr>
-<td><a href="https://redis.io/" target="_blank" class="no-border"><img src="/images/logos/redis.png"/></a></td>
+<td><a href="https://www.docker.com/" target="_blank" class="no-border"><img src="/images/logos/docker.png"/></a></td>
 <td><a href="https://www.elastic.co/" target="_blank" class="no-border"><img src="/images/logos/elastic.png"/></a></td>
 <td><a href="https://www.mongodb.com/" target="_blank" class="no-border"><img src="/images/logos/mongo.jpg"/></a></td>
 <td><a href="https://www.python.org/" target="_blank" class="no-border"><img src="/images/logos/python.png"/></a></td>
 </tr>
 <tr>
+<td><a href="https://redis.io/" target="_blank" class="no-border"><img src="/images/logos/redis.png"/></a></td>
 <td><a href="https://maven.apache.org/" target="_blank" class="no-border"><img src="/images/logos/maven.png"/></a></td>
 <td><a href="https://gradle.org/" target="_blank" class="no-border"><img src="/images/logos/gradle.png"/></a></td>
 <td><a href="https://git-scm.com/" target="_blank" class="no-border"><img src="/images/logos/git.png"/></a></td>
-<td><a href="http://camel.apache.org/" target="_blank" class="no-border"><img src="/images/logos/apache-camel.jpg"/></a></td>
 </tr>
 <tr>
 <td><a href="https://www.mysql.com/" target="_blank" class="no-border"><img src="/images/logos/mysql.png"/></a></td>
