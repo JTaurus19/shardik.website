@@ -15,7 +15,8 @@ weight: -80
             Solid background in team management  <br/>
             Developed Shardik's brain and left hand 
         </p>
-        <i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+        <a href="https://www.linkedin.com/in/vkruglov/"><i class="fa fa-2 fa-linkedin-square"></i></a>
+        <!-- <i class="fa fa-facebook-square"></i> //-->
     </div>
     <div class="right-half">
             <img class="img-circle" src="/images/viacheslav_rounded.png" />
@@ -34,7 +35,8 @@ weight: -80
             Developed Shardik's <s>s</s>kills and right hand
         </p>
   
-        <i class="fa fa-linkedin-square"></i> <i class="fa fa-facebook-square"></i>
+        <a href="https://www.linkedin.com/in/ivan-t"><i class="fa fa-linkedin-square"></i></a> 
+        <a href="https://www.facebook.com/johnnie.tim"><i class="fa fa-facebook-square"></i></a>
     </div>
     <div class="right-half">
         <img class="img-circle" src="/images/ivan_rounded.png" />
