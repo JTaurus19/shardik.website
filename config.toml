@@ -1,6 +1,6 @@
-baseURL = "http://shardik.software/"
+baseURL = "http://shardik.com/"
 languageCode = "en-us"
-title = "SHARDIK.soft"
+title = "SHARDIK"
 theme = 'minimo'
 DefaultContentLanguage = "en"
 
@@ -11,7 +11,7 @@ enableRobotsTXT = true # generate robots.txt
 
 [params.copyright]
   prefix = ""
-  holder = "SHARDIK.soft"
+  holder = "SHARDIK"
   startYear = "2017"
   suffix = ""
   email = "hello@shardik.software"

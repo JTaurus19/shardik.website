@@ -7,9 +7,9 @@ install:
   - rm -rf public || exit 0
 
 script:
-  - binaries/hugo --theme=minimo --baseUrl=http://shardik.software
+  - binaries/hugo --theme=minimo --baseUrl=http://shardik.com
   - cd public
-  - echo 'shardik.software' > CNAME
+  - echo 'shardik.com' > CNAME
   - echo 'f65454fc5e23' > c9675f98d6b5.html
   - cd ..
 
