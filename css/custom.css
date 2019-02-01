@@ -1,0 +1,78 @@
+/* Make yellow line longer */
+
+.comments-container #disqus_thread:before,
+.entry+.home-sections-container,
+.home-sections:before,
+.entry-nav:before,
+.footer:before,
+.header:after,
+.prev-entry~.next-entry:before {
+    width: 15em;
+}
+
+/* Make site wider */
+
+.comments-container #disqus_thread,
+.entry-content,
+.entry-cover,
+.entry-cover figcaption,
+.entry-footer,
+.entry-nav,
+.entry-toc,
+.footer,
+.header,
+.list-header,
+.home-sections,
+.list,
+.pagination,
+.term-cloud {
+    max-width: 800px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.left {
+    float: left;
+    margin-right: 20px;
+}
+
+.right {
+    float: right;
+}
+
+.team-names {
+    color: rgba(0, 0, 0, 0.32);
+    font-size: 0.9em;
+}
+
+.no-bottom-margin {
+    margin-bottom: 0 !important;
+}
+
+.clear-block {
+    clear: both;
+    font-size: 0;
+    line-height: 0;
+    height: 30px;
+}
+.container {
+    display: grid;
+}
+
+.left-half {
+    grid-column: 1;
+}
+
+.right-half {
+    grid-column: 2;
+}
+
+table { border: none; }
+td {border:none;}
+
+.no-border {
+    border: none !important;
+}
